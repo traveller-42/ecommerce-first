@@ -1,0 +1,14 @@
+.my-card1{
+    border: 0;
+}
+.my-card1-footer{
+    background-color: white;
+    border: 0;
+}
+.my-cat img{
+   width: 80px;
+}
+.slide-car .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
